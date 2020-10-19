@@ -7,8 +7,8 @@ package pboif2.pkg10119067.latihan1.biodata;
 
 /**
  *
- * @author Zainul Rifqi
- * NAMA     : Zainul Rifqi Muwaffaq
+ * 
+ * NAMA     : Andreas Danhago P.I
  * KELAS    : IF2
  * NIM      : 10119067
  * Deskripsi Program : Program ini berisi program untuk menampilkan
